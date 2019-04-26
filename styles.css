@@ -1,0 +1,37 @@
+#table{
+    margin: auto;
+    border-collapse: collapse;
+}
+
+#title {
+    text-align: center;
+    font-size: 40px;
+}
+
+.categories {
+    font-size: 30px;
+}
+
+#buttonStuff {
+    text-align: center;
+    size: 40px;
+}
+
+h1{
+    text-align: center;
+    font-family: "Al Nile";
+    color: #ff8e47;
+    font-size: 50px;
+}
+
+h2{
+    text-align: center;
+    font-family: "Al Nile";
+    color: #ff8e47;
+    font-size: 45px;
+}
+
+body {
+    font-family: "Al Nile";
+    background-color: #80c5ff;
+}
